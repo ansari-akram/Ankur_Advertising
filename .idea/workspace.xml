@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01c49ac4-eea4-4b62-9cc0-3a72652795f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yznyLAR4dBPOKy4HL5rwvu5mhA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/ProgramData/Anaconda3/envs/ankur_ads_env/python.exe" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Zaheer Bhai\ShopManage\templates\ShopCons" />
+      <recent name="D:\Zaheer Bhai\ShopManage\templates\ShopManage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Zaheer Bhai\ShopManage\templates\ShopManage" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01c49ac4-eea4-4b62-9cc0-3a72652795f0" name="Default Changelist" comment="" />
+      <created>1633263538142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633263538142</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="136" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635073462437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="136" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1635073462437" />
+    <state x="430" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1635069720140">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="430" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1635069720140" />
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1635074655620">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1635074655620" />
+    <state x="183" y="5" key="SettingsEditor" timestamp="1635074169863">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="183" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1635074169863" />
+    <state x="0" y="0" width="737" height="728" key="find.popup" timestamp="1634997062554">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="737" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1634997062554" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1634377222863">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1634377222863" />
+  </component>
+</project>
