@@ -46,6 +46,7 @@ INSTALLED_APPS = [
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
@@ -125,9 +126,12 @@ SECURE_SSL_REDIRECT = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
 
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_URL = '/static/'
 
-STATICFILES_DIRS = [STATIC_DIR, ]
+STATICFILES_DIRS = (
+    os.path.join(BASE_DIR, 'static'),
+)
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'static')
 
@@ -146,3 +150,4 @@ EMAIL_HOST_USER = 'ankuradvertising2021@gmail.com'  # this email will be used to
 EMAIL_HOST_PASSWORD = 'uwthewbcrplasmtz'  # host email password required
 # https://myaccount.google.com/lesssecureapps
 EMAIL_RECEIVING_USER = ['ankuradvertising2021@gmail.com']  # email on which you will receive messages sent from website
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
